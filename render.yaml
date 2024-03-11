@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: Basket-Service
+    name: Basket-Service-Helper
     env: docker
     plan: free
